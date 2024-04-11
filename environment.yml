@@ -1,0 +1,9 @@
+keys:
+  mysql_host: localhost
+  mysql_port: 3306
+  mysql_user: root
+  mysql_pass: cacao
+
+files:
+  - "plugins/test/config.yml"
+  - "plugins/test2/config.yml"
